@@ -7,10 +7,10 @@
     "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/revanced-manager.webp"
   },
   {
-    "appName": "Waze",
-    "appVersion": "4.81.0.4",
+    "appName": "Waze Chupitto (teste)",
+    "appVersion": "5.19.0.2",
     "appPackageName": "com.waze",
-    "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.apk",
+    "appLink": "https://github.com/gustavoclimaco/voltdash-apks/releases/download/chupitto/waze-chupitto.apk",
     "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.png"
   }
 ]
