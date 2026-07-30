@@ -4,13 +4,13 @@
     "appVersion": "3.0.36",
     "appPackageName": "com.revanced.net.revancedmanager",
     "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/revanced-manager.apk",
-    "appIcon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/com.revanced.net.revancedmanager.200.webp"
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/revanced-manager.webp"
   },
   {
     "appName": "Waze",
     "appVersion": "4.81.0.4",
     "appPackageName": "com.waze",
     "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.apk",
-    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-dist/main/icons/waze.png"
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.png"
   }
 ]
