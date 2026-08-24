@@ -12,12 +12,5 @@
     "appPackageName": "com.waze",
     "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.apk",
     "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.png"
-  },
-  {
-    "appName": "Spotify",
-    "appVersion": "9.1.76.2045",
-    "appPackageName": "com.spotify.music",
-    "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/spotify.apk",
-    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/spotify.webp"
   }
 ]
