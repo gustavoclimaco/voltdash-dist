@@ -12,5 +12,12 @@
     "appPackageName": "com.waze",
     "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.apk",
     "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/waze.png"
+  },
+  {
+    "appName": "VLC",
+    "appVersion": "3.7.1",
+    "appPackageName": "org.videolan.vlc",
+    "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/vlc.apk",
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/vlc.png"
   }
 ]
