@@ -19,5 +19,12 @@
     "appPackageName": "org.videolan.vlc",
     "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/vlc.apk",
     "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/vlc.png"
+  },
+  {
+    "appName": "Spotify",
+    "appVersion": "9.1.78.2218",
+    "appPackageName": "com.spotify.music",
+    "appLink": "https://github.com/gustavoclimaco/voltdash-apks/releases/download/spotify-9.1.78.2218/Spotify.apk",
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/spotify.webp"
   }
 ]
