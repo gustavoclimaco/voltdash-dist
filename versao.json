@@ -1,0 +1,5 @@
+{
+  "versao": 1,
+  "estavel": { "tag": "v1.0.1.312", "codigo": 313 },
+  "preview": { "tag": "v1.0.1.321-preview", "codigo": 322 }
+}
