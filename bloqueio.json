@@ -1,4 +1,6 @@
 {
   "versao": 1,
-  "bloqueados": []
+  "bloqueados": [
+    "60081"
+  ]
 }
