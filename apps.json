@@ -1,10 +1,17 @@
 [
   {
-    "appName": "ReVanced Manager",
-    "appVersion": "3.0.36",
-    "appPackageName": "com.revanced.net.revancedmanager",
-    "appLink": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/revanced-manager.apk",
-    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/revanced-manager.webp"
+    "appName": "microG RE (para o YouTube Morphe)",
+    "appVersion": "7.4.0",
+    "appPackageName": "app.revanced.android.gms",
+    "appLink": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.4.0/microg-7.4.0-icon-arm64-v8a.apk",
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/microg.png"
+  },
+  {
+    "appName": "Morphe (YouTube Morphe)",
+    "appVersion": "2.8.0",
+    "appPackageName": "app.morphe.manager",
+    "appLink": "https://github.com/MorpheApp/morphe-manager/releases/download/v2.8.0/morphe-manager-2.8.0.apk",
+    "appIcon": "https://raw.githubusercontent.com/gustavoclimaco/voltdash-apks/main/morphe.png"
   },
   {
     "appName": "Waze",
